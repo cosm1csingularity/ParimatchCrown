@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "958839232446",
+    "project_id": "parimatch-crown",
+    "storage_bucket": "parimatch-crown.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958839232446:android:d32789af9ec68f2b3f4bef",
+        "android_client_info": {
+          "package_name": "com.royaltyexpansion.parimatchcrown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958839232446-mn3dvggmollu39bomuunfv3fau8v2j8g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz5RAZGX2NTnYW2kwYBNAwVZJKgx0K_3I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958839232446-mn3dvggmollu39bomuunfv3fau8v2j8g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
